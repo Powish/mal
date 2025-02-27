@@ -1,0 +1,11 @@
+/*CUSTOM COVERS*/
+/*Akebi*/
+body[data-work="manga"] .data.image a[href*="/101851/"] .image {
+  	content:url('https://raw.githubusercontent.com/Powish/mal/main/images/Manga%20custom%20covers/akebi-feet-cover.webp');
+}
+.data.image a[href^="/manga/101851/"]:before{background-image:url(https://raw.githubusercontent.com/Powish/mal/main/images/Manga%20custom%20covers/akebi-feet-cover.webp)}
+/*Hanako detective*/
+body[data-work="manga"] .data.image a[href*="/8585/"] .image {
+  	content:url('https://cdn.myanimelist.net/images/manga/2/179325l.webp');
+}
+.data.image a[href^="/manga/8585/"]:before{background-image:url(https://cdn.myanimelist.net/images/manga/2/179325l.webp)}

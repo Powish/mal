@@ -1,0 +1,136 @@
+/*GENRES ELO*/
+.data.tags span a[href*="=Seinen"] { color: #1efcb6 !important }
+.data.tags span a[href*="=Gourmet"] { color: #FFA500 !important }
+.data.tags span a[href*="=Shounen"] { color: #ff6f00 !important }
+.data.tags span a[href*="=Horror"] { color: #b80404 !important }
+.data.tags span a[href*="=Comedy"] { color: #ffc108 !important }
+.data.tags span a[href*="=Mystery"] { color: #fd9f2d !important }
+.data.tags span a[href*="=Adventure"] { color: #d92564 !important }
+.data.tags span a[href*="=Action"] { color: #168cd7 !important }
+.data.tags span a[href*="=Slice%20of%20Life"] { color: #63ebeb !important }
+.data.tags span a[href*="=Game"] { color: #00ff00 !important }
+.data.tags span a[href*="=Sports"] { color: #3f84f2 !important }
+.data.tags span a[href*="=Drama"] { color: #ba0af0 !important }
+.data.tags span a[href*="=Romance"] { color: #ff61f4 !important }
+.data.tags span a[href*="=Psychological"] { color: #ff006f !important }
+.data.tags span a[href*="=Space"] { color: #00ffb7 !important }
+.data.tags span a[href*="=Isekai"] { color: #ffe2a3 !important }
+.data.tags span a[href*="=Fake%20Isekai"] { color: #afa3ff !important }
+.data.tags span a[href*="=Cooking"] { color:  #eb3417 !important }
+.data.tags span a[href*="=Time%20Travel"] { color:  #f06767 !important }
+.data.tags span a[href*="=Superhero"] { color:  #1c8a53 !important }
+.data.tags span a[href*="=Girls%20Love"] { color:  #fbbdeb !important }
+.data.tags span a[href*="=Boys%20Love"] { color:  #2201dc !important }
+.data.tags span a[href*="=Vampire"] { color:  #5D0A0D !important }
+.data.tags span a[href*="=Suspense"] { color:  #522c6d !important }
+.data.tags span a[href*="=Supernatural"] { color:  #f86b5f !important }
+.data.tags span a[href*="=Super%20Power"] { color:  #6c3ac2 !important }
+.data.tags span a[href*="=Sports"] { color:  #c36c44 !important }
+.data.tags span a[href*="=Space"] { color:  #2d44fc !important }
+.data.tags span a[href*="=Shounen%20Ai"] { color:  #cfbf63 !important }
+.data.tags span a[href*="=Shounen"] { color:  #8628b4 !important }
+.data.tags span a[href*="=Shoujo%20Ai"] { color:  #a382c0 !important }
+.data.tags span a[href*="=Shoujo"] { color:  #3b98ae !important }
+.data.tags span a[href*="=Police"] { color:  #2d44fc !important }
+.data.tags span a[href*="=Parody"] { color:  #069519 !important }
+.data.tags span a[href*="=Music"] { color:  #d44ee8 !important }
+.data.tags span a[href*="=Josei"] { color:  #7f4206 !important }
+.data.tags span a[href*="=Historical"] { color:  #4d1bce !important }
+.data.tags span a[href*="=Hentai"] { color:  #39FF14 !important }
+.data.tags span a[href*="=Harem"] { color:  #d42928 !important }
+.data.tags span a[href*="=Game"] { color:  #8d10dc !important }
+.data.tags span a[href*="=Fantasy"] {  color:  #5f7f13 !important }
+.data.tags span a[href*="=Ecchi"] { color:  #f02ebb !important }
+.data.tags span a[href*="=Mythology"] { color:  #ad9ee9 !important }
+.data.tags span a[href*="=Avant%20Garde"] { color:  #8dc36d !important }
+.data.tags span a[href*="=Cars"] { color:  #58e2cc !important }
+.data.tags span a[href*="=School"] { color:  #1bd1b8 !important }
+.data.tags span a[href*="=Sci-Fi"] { color:  #3bd578 !important }
+.data.tags span a[href*="=Mecha"] { color:  #36f8f7 !important }
+.data.tags span a[href*="=Magic"] { color:  #c8f902 !important }
+.data.tags span a[href*="=Military"] { color:  #b7917e !important }
+.data.tags span a[href*="=Samurai"] { color:  #ffa000 !important }
+.data.tags span a[href*="=Martial%20Arts"] { color:  #fdfd96 !important }
+.data.tags span a[href*="=Erotica"] { color:  #e75480 !important }
+.data.tags span a[href*="=Kids"] { color:  #FFFF00 !important }
+.data.tags span a[href*="=Survival"] { color:  #a52a2a !important }
+.data.tags span a[href*="=Otaku%20Culture"] { color:  #b19cd9 !important }
+.data.tags span a[href*="=Video%20Game"] { color:  #1439ff !important }
+.data.tags span a[href*="=Adult%20Cast"] { color:  #a56a2a !important }
+.data.tags span a[href*="=Iyashikei"] { color:  #ffb6c1 !important }
+.data.tags span a[href*="=Romantic%20Subtext"] { color: #ff61f4 !important }
+.data.tags span a[href*="=Gore"] { color: #ff0000 !important }
+.data.tags span a[href*="=Reincarnation"] { color: #3572b7 !important }
+.data.tags span a[href*="=Isekai"] { color: #4b9fc8 !important }
+.data.tags span a[href*="=Gag%20Humor"] { color: #ffff1a !important }
+.data.tags span a[href*="=Delinquents"] { color: #45853b !important }
+.data.tags span a[href*="=Workplace"] { color: #487f98 !important }
+.data.tags span a[href*="=Organized%20Crime"] { color: #5D0A0D !important }
+.data.tags span a[href*="=Crossdressing"] { color: #ff6961 !important }
+.data.tags span a[href*="=CGDCT"] { color: #ff748c !important }
+.data.tags span a[href*="=Anthropomorphic"] { color: #654321 !important }
+.data.tags span a[href*="=Medical"] { color: #E80000 !important }
+.data.tags span a[href*="=High%20Stakes%20Game"] { color: #f75133 !important }
+.data.tags span a[href*="=Strategy%20Game"] { color: #9e66e0 !important }
+.data.tags span a[href*="=Educational"] { color: #32cd32 !important }
+.data.tags span a[href*="=Award%20Winning"] { color: #ffd700 !important }
+.data.tags span a[href*="=Mahou%20Shoujo"] { color: #ff007f !important }
+.data.tags span a[href*="=Urban%20Fantasy"] { color: #7E9E33 !important }
+.data.tags span a[href*="=Performing%20Arts"] { color: #0096FF !important }
+
+/*.data.tags span a[href*="=TAG""] { background: COLOUR }
+
+.data.tags span a[href*="=TAG"]{background:url();color:#fff!important}*/
+/*|||||||||||||||||||||MISC YEP COCK||||||||||||||||||||||*/
+.data.tags span a[href*="=!"] {background: #960e29; color: #960e29 !important }
+.data.tags span a[href*="=%7C"] {background: #960e29; color: #960e29 !important }
+/*Group tags placement*/
+/*Left*/
+.data.tags span a[href*="=!"] {
+	padding-right: 4px !important;
+	border-radius: 8.5px 0 0 8.5px;
+	margin-right: 2px;
+}
+/*Center*/
+.data.tags span a[href*="=OP"],
+.data.tags span a[href*="=ED"],
+.data.tags span a[href*="=AMusic"],
+.data.tags span a[href*="=Art"],
+.data.tags span a[href*="=MArt"],
+.data.tags span a[href*="=Story"],
+.data.tags span a[href*="=Characters"] {
+	padding: 1px 4px !important;
+	border-radius: 0;
+	margin-right: 2px;
+}
+/*Right*/
+.data.tags span a[href*="=%7C"] {
+	padding-left: 4px !important;
+	border-radius: 0 8.5px 8.5px 0;
+}
+/*Tags color+ bg*/
+.data.tags span a[href*="=OP"]{background:url(https://raw.githubusercontent.com/Powish/mal/main/images/mal%20op%20tag.webp);color:#FFF!important;font-weight: bold}
+.data.tags span a[href*="=ED"]{background:url(https://raw.githubusercontent.com/Powish/mal/main/images/mal%20ed%20tag.gif);color:#FFF!important;font-weight: bold}
+.data.tags span a[href*="=AMusic"]{background:url(https://raw.githubusercontent.com/Powish/mal/main/images/mal%20music%20tag.webp);color:#FFF!important;font-weight: bold}
+.data.tags span a[href*="=Art"],
+.data.tags span a[href*="=MArt"]{background:url(https://raw.githubusercontent.com/Powish/mal/main/images/mal%20art%20tag.webp);color:#FFF!important;font-weight: bold}
+.data.tags span a[href*="=Story"]{background:url(https://raw.githubusercontent.com/Powish/mal/main/images/mal%20story%20tag.webp);color:#FFF!important;font-weight: bold}
+.data.tags span a[href*="=Characters"]{background:url(https://raw.githubusercontent.com/Powish/mal/main/images/mal%20characters%20tag.webp);color:#FFF!important;font-weight: bold}
+/*Shorter tags thingie es*/
+.data.tags span a[href*="=OP"],
+.data.tags span a[href*="=ED"],
+.data.tags span a[href*="=AMusic"],
+.data.tags span a[href*="=Art"],
+.data.tags span a[href*="=Story"],
+.data.tags span a[href*="=Characters"],
+.data.tags span a[href*="=MArt"] {
+	font-size: 0 !important;
+	height: 15px;
+}
+.data.tags span a[href*="=OP"]:before { content: "AMAZING OP";font-size: 11px;font-weight: bold; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
+.data.tags span a[href*="=ED"]:before { content: "AMAZING ED";font-size: 11px;font-weight: bold; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
+.data.tags span a[href*="=AMusic"]:before { content: "AMAZING MUSIC";font-size: 11px;font-weight: bold; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
+.data.tags span a[href*="=Art"]:before { content: "AMAZING ART/ANIMATION";font-size: 11px;font-weight: bold; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
+.data.tags span a[href*="=MArt"]:before { content: "AMAZING ART";font-size: 11px;font-weight: bold; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
+.data.tags span a[href*="=Story"]:before { content: "AMAZING STORY";font-size: 11px;font-weight: bold; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
+.data.tags span a[href*="=Characters"]:before { content: "AMAZING CHARACTERS";font-size: 11px;font-weight: bold; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
