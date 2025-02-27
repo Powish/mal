@@ -630,20 +630,18 @@ background-position: center center;
 pointer-events: none;
 }
 
-.data.title a:after { 
-font-size: 13px !important;
-}
 .data.tags span a[href*="=Hentai"] {
 	font-size: 0 !important;
 	height: 15px;
 	background:rgba(0,0,0,0);
   pointer-events: none;
   position: absolute;
-	left: 400px;
-	top: calc(35%);
+	left: 73px;
+	top: calc(23%);
 	padding: 0;
  z-index: 1000;
+ font-weight: bold; 
 }
-.data.tags span a[href*="=Hentai"]:before { content: "MISSING?";
-font-size: 40px;
+.data.tags span a[href*="=Hentai"]:before { content: "Hidden";
+font-size: 13px;
 text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;}
