@@ -6,6 +6,7 @@
 @\import "https://dl.dropboxusercontent.com/s/mluhb6btpivthio/en%20names%20manga%20compr.css";
 @\import "https://dl.dropboxusercontent.com/s/wx51ob2kru0ht43/mal%20manga%20custom%20images%20compr.css";
 @\import "https://raw.githack.com/Powish/mal/refs/heads/main/compr/Hide%20Yabai%20manga%20compr.css";
+@\import"https://raw.githack.com/Powish/mal/refs/heads/main/compr/Yabai%20show%20for%20me%20manga%20compr.css";
 /*Side character no minify*/
 .status-menu-container.fixed ~ .list-block:before{
 background-image: url(https://raw.githubusercontent.com/Powish/mal/main/images/mal%20manga%20side%20character.png);
@@ -37,7 +38,11 @@ left: -55%;
 left: -3%;
 	}
 }
-
+@font-face {
+    font-family: "Twemoji Mozilla";
+    src: url("https://vendicated.github.io/random-files/Twemoji.Mozilla.ttf") format("truetype");
+    unicode-range: U+1F62D;
+}
 /*Favourite Hearts (Left) R0.4*/
 .data.tags span{padding:0}.data.tags span a{margin:1px 0}.data.tags span a[href*="=Favorite"],.data.tags span a[href*="=Favourite"]{position:absolute;left:-34px;top:calc(50% - 13px);width:26px;height:26px;padding:0;background:var(--bg);border-radius:50%;color:#ff65ad!important;font-size:0!important;line-height:24px;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,.2)}.data.tags span a[href*="=Favorite"]:before,.data.tags span a[href*="=Favourite"]:before{content:"♥";font-size:26px}
 /*END*/
@@ -216,7 +221,7 @@ z-index: 0;
 	pointer-events: none;
 }
 /*Scores desc on hover*/
-.score-na::before {
+/*.score-na::before {
 	content: "N/A";
 }
 .score-1::before {
@@ -279,7 +284,7 @@ z-index: 0;
 
 .score a:hover .score-label::before {
 	opacity: 1;
-}
+}*/
 /*Custom cursor*/
 body *, :not(*) {
 cursor: url(https://i.imgur.com/woQGA1Z.png), auto !important;
@@ -341,8 +346,14 @@ a.mal-icon.ml4,i.malicon.malicon-movie-episode,.qc-cmp2-persistent-link {
 	
 	overflow: hidden;
 	box-shadow: 0 1px 2px rgba(0,0,0,0.2);
-} .data.tags span a[href*="=Uoh"]:before {	position: absolute;
-	left: -3px; content: "😭"; font-size: 26px; }
+} 
+.data.tags span a[href*="=Uoh"]:before {	
+    position: absolute;
+	  left: 0.5px; 
+	  top: 4px;
+    content: "😭";
+    font-family: "Twemoji Mozilla";
+    font-size: 29px; }
 /*Stats bg*/
 .list-stats {
 	background: rgba(0,0,0,0.6) !important;
