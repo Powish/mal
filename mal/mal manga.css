@@ -633,3 +633,17 @@ pointer-events: none;
 .data.title a:after { 
 font-size: 13px !important;
 }
+.data.tags span a[href*="=Hentai"] {
+	font-size: 0 !important;
+	height: 15px;
+	background:rgba(0,0,0,0);
+  pointer-events: none;
+  position: absolute;
+	left: 400px;
+	top: calc(35%);
+	padding: 0;
+ z-index: 1000;
+}
+.data.tags span a[href*="=Hentai"]:before { content: "MISSING?";
+font-size: 40px;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;}
