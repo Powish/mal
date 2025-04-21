@@ -1,7 +1,7 @@
 ! name: Anime
 ! description: Rerank results to boost content on anime. Currently consists of myanimelist, anilist, crunchyroll and funimation.
-! public: true
-! author: 1-minute-to-midnight 
+! public: False
+! author: YourMom
 ! avatar: #254182
 
 $downrank,site=en.wikipedia.org
